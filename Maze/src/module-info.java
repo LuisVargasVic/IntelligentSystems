@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author administrator
+ *
+ */
+module Maze {
+}
